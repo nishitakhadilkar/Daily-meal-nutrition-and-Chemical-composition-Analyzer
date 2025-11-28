@@ -15,11 +15,11 @@ This platform must empower individuals by clearly translating consumed food into
 The project was meticulously developed utilizing the Python programming language, incorporating all relevant modules and programming constructs taught within the Vityarthi platform curriculum. The entire coding process was executed within the IDLE (Integrated Development and Learning Environment) for Python, which streamlined the workflow for saving, executing, and testing the application files. Simple, efficient data structures, specifically Python Dictionaries, were employed to effectively store and organize all product information, thereby ensuring optimal data retrieval and logical organization. Since the application operates fundamentally on Python, the codebase benefits significantly from the language's inherent simplicity, resulting in a program that is both remarkably easy to use and straightforward to maintain and modify.
 
 # Steps to install and run the project 
-*Install Python Environment: Install the Python 3.x interpreter by downloading the installer from the Python Software Foundation's official website. Complete the setup, ensuring the crucial option to "Add Python to PATH" is selected.
-*Verify Installation: Open your system's command line interface (Terminal/Command Prompt) and execute python --version (or python3 --version) to confirm the successful        installation of the 3.x version.
-*Launch IDLE Python: Open the IDLE (Integrated Development and Learning Environment) application, which is the primary tool for coding and executing the project.
-*Code and Execute: Use IDLE to input the application logic, following the instructions and employing proper commands, algorithms, and statements for your nutritional tool.    Use Run > Run Module (F5) to execute the code.
-Use the Tool: Once running, follow the on-screen instructions to input the food items and begin verifying the system's output of accurate nutritional values.
+* Install Python Environment: Install the Python 3.x interpreter by downloading the installer from the Python Software Foundation's official website. Complete the setup,       ensuring the crucial option to "Add Python to PATH" is selected.
+* Verify Installation: Open your system's command line interface (Terminal/Command Prompt) and execute python --version (or python3 --version) to confirm the successful        installation of the 3.x version.
+* Launch IDLE Python: Open the IDLE (Integrated Development and Learning Environment) application, which is the primary tool for coding and executing the project.
+* Code and Execute: Use IDLE to input the application logic, following the instructions and employing proper commands, algorithms, and statements for your nutritional tool.    Use Run > Run Module (F5) to execute the code.
+* Use the Tool: Once running, follow the on-screen instructions to input the food items and begin verifying the system's output of accurate nutritional values.
 
 # Instructions for testing
 * Initiate the program and input a variety of specific food items; execute the process to verify system functionality and confirm the output of correct and accurate            nutritional values.
