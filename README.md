@@ -24,7 +24,13 @@ Follow the instructions and code according to the problem statement you have reg
 Use proper commands, algorithm and statements inorder to write and run your code.
 
 # Instructions for testing
-* Initiate the program and input a variety of specific food items; execute the process to verify system functionality and confirm the output of correct and accurate            nutritional values.
-*	Evaluate the application's stability and error handling by checking its reaction to unknown product names, ensuring the system does not crash or generate critical errors.
-*	Test the operational flow of the application using multiple successive inputs to confirm the program runs seamlessly and smoothly without necessitating a restart.
-* Review the displayed chemical composition against trusted external sources to rigorously compare and validate that the data provided by the application is accurate and       verifiably true.
+
+* Install Python Environment: Install the Python 3.x interpreter by downloading the installer from the Python Software Foundation's official website. Complete the setup, ensuring the crucial option to "Add Python to PATH" is selected.
+
+* Verify Installation: Open your system's command line interface (Terminal/Command Prompt) and execute python --version (or python3 --version) to confirm the successful installation of the 3.x version.
+
+* Launch IDLE Python: Open the IDLE (Integrated Development and Learning Environment) application, which is the primary tool for coding and executing the project.
+ 
+* Code and Execute: Use IDLE to input the application logic, following the instructions and employing proper commands, algorithms, and statements for your nutritional tool. Use Run > Run Module (F5) to execute the code.
+
+* Use the Tool: Once running, follow the on-screen instructions to input the food items and begin verifying the system's output of accurate nutritional values.
